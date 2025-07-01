@@ -3,7 +3,6 @@ Hello there..👋
 # 👋 Hi there, I'm Chetan!
 
 I'm passionate about **Cybersecurity** 
-I love creating projects!
 
 ---
 
